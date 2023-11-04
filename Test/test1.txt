@@ -1,0 +1,168 @@
+1 java is object oriented progrmming language,discovered is james gosling in 1995,and its a real world entity
+  javac is used to exicute a compiling the program
+
+2 jdk is stands for java development kit
+  *jdk is used to both compile and execution
+  *[tool+jre]
+ 
+   jre is stands for java run time environment
+ * used to only execution
+ *[libraries + jvm]
+
+   jvm is stands for java virtual machine
+   *its executes only byte code
+   [jdk+jre]
+
+3  .java file its runs the source code
+   .class file its runs the byte code
+
+4 
+
+
+5  variables is a data containers
+ *  static 
+ *  non static[instance]
+ *  local
+ *  parameter
+
+ex of static : static int no;
+               stactic double cost;
+
+ex of non static: int no;
+                  double cost;
+
+local variable:declare inside the method 
+    void helmet()
+{
+   int no;
+   double cost;
+}
+
+parameter:declare inside the paranthesis
+
+  ex :  void gitub(int no,double cost);
+        {
+
+        }
+
+6  abstraction  
+   encapsulation 
+   polymorpism
+   inheritence
+
+
+7  error
+
+8 storing the data values
+  *primitive data type
+  *non primitive data type
+    in primitive
+
+       int 
+       float
+       double 
+       char
+       long
+       Boolean
+
+    non primitive is any class names
+  
+ex primitive : int no;
+               double cost;
+
+ex non primitive : laptop cost;'
+
+9  dot operator is used to acess variables and methods
+
+ex :  class key
+     {
+       static int no=2;
+      {
+      public static void main (String[] args)
+     System.out.println("message is: "+no);   
+     }
+   }
+
+10  abstraction  
+    encapsulation 
+    polymorpism
+    inheritence
+
+11  array is  used storing seqential no of elements
+   
+ex int[] no=[1,2,3,4,5,6,7];
+    
+   String[] names=["vinu","kavi","vinod"];
+ 
+12 * class is creates the object
+   * object is a instance of class and its a real world entity
+
+    ex : class Mobile
+         {
+         static int no;
+         static String name;
+         }
+
+13  keyword is predefined functions in  java programs
+    without keyword not write the java program
+  int
+  char
+  public
+  static
+  void
+  this 
+  throw
+  finally
+  import
+   super
+  
+ex: class key
+     {
+   static int no=2;
+
+    key(int no)
+    {
+   this.no=no;
+    }
+     
+      public static void main (String[] args)
+     System.out.println("message is: "+no);   
+     }
+   }
+
+14  constructor is a special method it is used to intilize the instance variables, and its have no return type
+   * default 
+   * parameter
+
+15  static is a non acess specifier 
+    
+    method types
+
+* implicit
+* explicit
+
+16   class Machine
+    {
+   int[] no=[12,3,2,45, 6,7,6]
+    {
+    for(int i=0,i<no.length ,i++)
+{
+System.out.println(no[i]);
+}
+}
+}
+
+
+
+
+ 
+
+
+
+
+
+   
+
+  
+
+
