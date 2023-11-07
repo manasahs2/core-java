@@ -1,0 +1,4 @@
+enum Players
+{
+MANASA,VINU;
+}
